@@ -33,6 +33,7 @@ widget_info_t widgets_list[] = {
   { L_TK_VPANED,    "vpaned",   widget_paned    },
   { L_TK_WEBVIEW,   "webview",  widget_webview  },
   { L_TK_WINDOW,    "window",   widget_window   },
+  { L_TK_IMAGE,     "image",    widget_image    },
 };
 
 LUA_OBJECT_FUNCS(widget_class, widget_t, widget);

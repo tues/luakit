@@ -80,6 +80,7 @@ get_title
 go_back
 go_forward
 hbox
+height
 hide
 history
 homogeneous
@@ -90,6 +91,7 @@ icon
 icon_uri
 id
 idle_timeout
+image
 indexof
 insert
 inspector
@@ -99,6 +101,7 @@ javascript_can_access_clipboard
 javascript_can_open_windows_automatically
 label
 left
+load
 loading
 loading_chrome
 load_string
